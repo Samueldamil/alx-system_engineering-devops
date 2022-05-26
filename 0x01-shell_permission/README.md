@@ -1,1 +1,1 @@
-Script that switches the current user to the user betty
+0x01 shell permission
