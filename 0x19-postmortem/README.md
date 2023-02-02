@@ -1,4 +1,11 @@
-  REMOTE SERVER FAILURE:
+  
+
+
+
+
+
+
+REMOTE SERVER FAILURE:
 Last month, it was reported that the remote server web-01 was returning 403 e
 rror (permission denied) anytime i need to connect to the server, all the ser
 vice were down because i could not access the server. 90% of the users were a
