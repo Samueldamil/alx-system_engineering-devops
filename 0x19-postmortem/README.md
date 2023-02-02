@@ -1,10 +1,3 @@
-  
-
-
-
-
-
-
 REMOTE SERVER FAILURE:
 Last month, it was reported that the remote server web-01 was returning 403 e
 rror (permission denied) anytime i need to connect to the server, all the ser
@@ -27,5 +20,4 @@ updated it on my intranet profile and asked for a new server.
 CORRECTIVE AND PREVENTIVE MEASURE:
 • Establish a secure connection
 • Use SSH Keys Authentication
-• Ensure that your ssh key is correct when copying it to your intranet profil
-e.
+• Ensure that your ssh key is correct when copying it to your intranet profile.
